@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-piano/static/css/main.a33b709a.css",
+    "main.js": "/web-piano/static/js/main.6c3df0f8.js",
+    "index.html": "/web-piano/index.html",
+    "main.a33b709a.css.map": "/web-piano/static/css/main.a33b709a.css.map",
+    "main.6c3df0f8.js.map": "/web-piano/static/js/main.6c3df0f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33b709a.css",
+    "static/js/main.6c3df0f8.js"
+  ]
+}
